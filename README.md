@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/15b5749d-26a3-4540-be6e-b9bdaf284dda
 
 ## Features
 - **Genre Classification**: Users can input a movie description, and the system will predict the genre using a trained deep learning model.
-- **Movie Cards**: Users can browse through various movie cards with details like title, genre, and synopsis, and search for specific movies.
+- **Movie Cards**: Users can browse through various movie cards with details like title, and genre, and search for specific movies.
 - **User Accounts**: By creating an account, users can save their favorite movie cards for easy access later.
 - **Recommendation System**: On the "Predict Genre" page, users can input a description, receive a genre prediction, and get movie recommendations based on the predicted genre.
 
